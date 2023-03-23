@@ -10,7 +10,7 @@ The parser of https://www.detmir.ru/
 
 * First of all, check **src/config.py**
 
-* Didn't test all 100+ pages on every url
+* I did **NOT** test all 100+ pages on every url
 
 * Could be speeded up by spliting requests in async
 
